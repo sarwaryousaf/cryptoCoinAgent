@@ -1,0 +1,58 @@
+[
+    {
+        "coin": "Bitcoin",
+        "symbol": "BTC",
+        "launch_year": 2009,
+        "consensus": "Proof of Work",
+        "last_price": 95072.0,
+        "price_timestamp": "2026-01-17T10:55:09Z"
+    },
+    {
+        "coin": "Ethereum",
+        "symbol": "ETH",
+        "launch_year": 2015,
+        "consensus": "Proof of Stake",
+        "last_price": 3296.23,
+        "price_timestamp": "2026-01-17T10:33:47Z"
+    },
+    {
+        "coin": "Solana",
+        "symbol": "SOL",
+        "launch_year": 2020,
+        "consensus": "Proof of History",
+        "last_price": 144.34,
+        "price_timestamp": "2026-01-17T10:34:19Z"
+    },
+    {
+        "coin": "Tron",
+        "symbol": "TRON",
+        "launch_year": 2024,
+        "consensus": "Proof of History",
+        "last_price": 84.18,
+        "price_timestamp": "2026-01-17T09:57:31Z"
+    },
+    {
+        "coin": "Pi",
+        "symbol": "PI",
+        "launch_year": 2018,
+        "consensus": "Proof of History",
+        "last_price": 0.21,
+        "price_timestamp": "2026-01-17T10:05:15Z"
+    },
+    {
+        "coin": "XRP",
+        "symbol": "XRP",
+        "launch_year": 2010,
+        "consensus": "Unknown",
+        "last_price": 2.067,
+        "price_timestamp": "2026-01-17T10:17:32Z"
+    },
+    {
+        "coin": "Pepe",
+        "symbol": "PEPE",
+        "launch_year": 2010,
+        "consensus": "Unknown",
+        "last_price": 5.83e-06,
+        "price_timestamp": "2026-01-17T10:51:25Z"
+    }
+]
